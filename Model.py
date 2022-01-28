@@ -2,7 +2,6 @@ import streamlit as st
 import tensorflow as tf
 from PIL import Image
 import numpy as np
-import cv2
 from skimage import exposure
 from skimage.transform import resize
 import pandas as pd
